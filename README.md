@@ -23,13 +23,12 @@ Features include:
 
 > This is a development version. Instructions may change.
 ```
-git clone https://github.com/yourusername/PixelPolice.git
+git clone https://github.com/commander-error404/PixelPolice.git
 cd PixelPolice
 ```
 
 
 ## install dependencies
 ```
-pash
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
